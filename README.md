@@ -30,11 +30,10 @@ make
 Итоговая структура:
 
 ```text
-lab-riscv-asm/
-├── main.S
-├── main.c
-├── Makefile
-├── README.md
-├── main.elf
-└── main.dump
+main.S
+main.c
+Makefile
+README.md
+main.elf
+main.dump
 ```
